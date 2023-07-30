@@ -1,0 +1,16 @@
+#Python usually uses an interpreter.
+#print("fanue") equal print('fanue')
+#input("What is your name?")
+name = input('What is your name?')
+print('Hello ' + name)
+
+#Data Types
+int
+float
+bool
+str
+list
+tuple
+set
+dict
+...
